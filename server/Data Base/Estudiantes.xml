@@ -1,0 +1,73 @@
+<estudiantes>
+    <estudiante1 
+    	 name = "Jose"
+    	 lastname = "Loria"
+    	 carnet = "2022211671"
+    	 career = "Ingenieria en Computadores"
+    	 >
+    </estudiante1>
+
+    <estudiante2 
+    	 name = "Yitzy"
+    	 lastname = "Jimenez"
+    	 carnet = ""
+    	 career = "Ingenieria en Computadores"
+    	 >
+    </estudiante2>
+    
+    <estudiante3 
+    	 name = "Franco"
+    	 lastname = "Sagot"
+    	 carnet = ""
+    	 career = "Ingenieria en Computadores"
+    	 >
+    </estudiante3>
+    
+    <estudiante4 
+    	 name = "Felipe"
+    	 lastname = "Zumbado"
+    	 carnet = ""
+    	 career = "Ingenieria en Electronica"
+    	 >
+    </estudiante4>
+    
+    <estudiante5 
+    	 name = "Isaac"
+    	 lastname = "Peña"
+    	 carnet = ""
+    	 career = "Ingenieria en Biotecnologia"
+    	 >
+    </estudiante5>
+    
+    <estudiante6
+    	 name = "Sary"
+    	 lastname = "Vargas"
+    	 carnet = ""
+    	 career = "Ingenieria en Electronica"
+    	 >
+    </estudiante6>
+    
+    <estudiante7 
+    	 name = "Jose"
+    	 lastname = "Otarola"
+    	 carnet = ""
+    	 career = "Imagenologia"
+    	 >
+    </estudiante7>
+    
+    <estudiante8 
+    	 name = "Joel"
+    	 lastname = "Gomez"
+    	 carnet = ""
+    	 career = "Ingenieria en Computadores"
+    	 >
+    </estudiante8>
+    
+    <estudiante9 
+    	 name = "Ronald"
+    	 lastname = "Ivankovich"
+    	 carnet = ""
+    	 career = "Ingenieria en Mecatronica"
+    	 >
+    </estudiante9>
+</estudiantes>

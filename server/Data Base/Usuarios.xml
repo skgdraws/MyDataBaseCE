@@ -1,0 +1,19 @@
+<usuarios>
+    <Usuario1 
+    	 username = "Jose"
+    	 email = "joloria@estudiantec.cr"
+         password = "" >
+    </Usuario1>
+
+    <Usuario2 
+    	 username = "Yitzy"
+    	 email = "yitzy.jimenez1726@estudiantec.cr"
+         password = "" >
+    </Usuario2>
+    
+    <Usuario3
+    	 username = "Franco"
+    	 email = "fsagot@estudiantec.cr"
+         password = "" >
+    </Usuario3>
+</usuarios>

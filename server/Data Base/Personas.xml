@@ -1,0 +1,82 @@
+<personas>
+    <Persona1 
+    	 name = "Jose"
+    	 lastname = "Loria"
+    	 age = "20"
+    	 id = "118630617"
+    	 birthdate = "8/1/2003"
+    	 >
+    </Persona1>
+
+    <Persona2 
+    	 name = "Yitzy"
+    	 lastname = "Jimenez"
+    	 age = ""
+    	 id = ""
+    	 birthdate = ""
+    	 >
+    </Persona2>
+    
+    <Persona3 
+    	 name = "Franco"
+    	 lastname = "Sagot"
+    	 age = ""
+    	 id = ""
+    	 birthdate = ""
+    	 >
+    </Persona3>
+    
+    <Persona4 
+    	 name = "Felipe"
+    	 lastname = "Zumbado"
+    	 age = "20"
+    	 id = "468215973"
+    	 birthdate = "3/9/2002"
+    	 >
+    </Persona4>
+    
+    <Persona5 
+    	 name = "Isaac"
+    	 lastname = "Peña"
+    	 age = "20"
+    	 id = "369258147"
+    	 birthdate = "13/8/2002"
+    	 >
+    </Persona5>
+    
+    <Persona6
+    	 name = "Sary"
+    	 lastname = "Vargas"
+    	 age = "18"
+    	 id = "471582693"
+    	 birthdate = "5/9/2001"
+    	 >
+    </Persona6>
+    
+    <Persona7 
+    	 name = "Jose"
+    	 lastname = "Otarola"
+    	 age = "20"
+    	 id = "321654987"
+    	 birthdate = "5/11/2002"
+    	 >
+    </Persona7>
+    
+    <Persona8 
+    	 name = "Joel"
+    	 lastname = "Gomez"
+    	 age = "20"
+    	 id = "357194862"
+    	 birthdate = "3/8/2002"
+    	 >
+    </Persona8>
+    
+    <Persona9 
+    	 name = "Ronald"
+    	 lastname = "Ivankovich"
+    	 age = "20"
+    	 id = "349761852"
+    	 birthdate = "20/4/2002"
+    	 >
+    </Persona9>
+</personas>
